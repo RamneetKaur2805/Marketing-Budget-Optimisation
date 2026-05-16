@@ -358,7 +358,7 @@ Before implementing significant budget changes, the company should consider seve
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/marketing-budget-optimization.git
+git clone (https://github.com/RamneetKaur2805/Marketing-Budget-Optimisation)
 ```
 
 ---
