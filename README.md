@@ -346,9 +346,14 @@ Before implementing significant budget changes, the company should consider seve
 # Project Structure
 
 ```bash
+Marketing Budget Optimisation/
+│
 ├── Marketing_Budget_optimisation.ipynb
-├── part_4_marketing_budget_optimization.xlsx
 ├── README.md
+├── requirements.txt
+├── dataset_source.md
+├── outputs/
+└── images/
 ```
 
 ---
